@@ -1,3 +1,8 @@
+---
+title: Coastal Survey Field Guide
+season: 2026
+---
+
 # Coastal Survey Field Guide
 
 A short handbook for volunteers recording shoreline conditions. Read it before
@@ -64,3 +69,55 @@ records that have not yet been uploaded.
 ---
 
 Revised for the 2026 season.
+
+## Notation notes
+
+Handwritten field logs use a few conventions that look like markup when typed
+up. Each line below is ordinary text, not syntax.
+
+\# of quadrats is recorded before species counts, never after.
+
+\> 90% of transects finish within two hours of low tide.
+
+\- 4 degrees is the coldest morning recorded at this site.
+
+12\. Removal procedures were renumbered in this revision.
+
+\| Depth readings | come from the staff gauge, not the app estimate.
+
+A typed-up log page traditionally ends with a rule of equals signs:
+
+=====
+
+## Revision history
+
+The 2025 edition said to skip <b>flooded</b> quadrats; H&amp;S guidance now
+says to record them from the nearest safe rock &mdash; see the safety
+appendix.<sup>1</sup> The app shows ~~three~~ four substrate types this season.
+
+Site access changed too:\
+the west stairs are closed until May.
+
+Field reports go to the [regional archive][archive], with survey photos
+attached [^1] before the end of the month.
+
+- [ ] Confirm your tide-table subscription
+- [x] Complete the safety refresher
+
+1. Check the boot room noticeboard.
+   1. New keycodes are posted there each Monday.
+
+Log entries copied from the old paper forms keep their original layout:
+
+    TRANSECT 4 / STOP 3
+    substrate: cobble
+
+> ## From the coordinator
+> Thank you for another season. Every record
+> helps someone downstream.
+> - Keep your site maps
+> - Return borrowed quadrat frames
+
+[archive]: https://example.org/coastal/archive
+
+[^1]: Photos larger than 10 MB upload only on wifi.
